@@ -45,7 +45,10 @@ Gosto de desenvolver aplicações web, aprender novas tecnologias e compartilhar
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoseFelisbino&theme=tokyonight&utcOffset=-3"/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseFelisbino&theme=tokyonight)
 </p>
+
 
 ---
 
