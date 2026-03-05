@@ -34,6 +34,67 @@ Gosto de desenvolver aplicações web, aprender novas tecnologias e compartilhar
 
 ---
 
+---
+
+# 💼 Portfólio de Projetos
+
+## 💰 Sistema de Controle de Despesas Domésticas
+
+📌 Aplicação web para gerenciamento de contas, despesas mensais e parcelas.
+
+⚙️ **Tecnologias**
+- Java
+- Spring Boot
+- MySQL
+- HTML
+- CSS
+- JavaScript
+
+🔗 **Repositório**  
+https://github.com/JoseFelisbino/controle-despesas
+
+🌐 **Demo**  
+Em desenvolvimento
+
+---
+
+## 🍳 Aplicativo de Receitas Inteligente
+
+📌 Sistema que sugere receitas com base nos ingredientes disponíveis no armário ou geladeira.
+
+⚙️ **Tecnologias**
+- Java
+- API REST
+- Banco de dados
+- HTML
+- CSS
+- JavaScript
+
+🔗 **Repositório**  
+https://github.com/JoseFelisbino/app-receitas
+
+🌐 **Demo**  
+Em desenvolvimento
+
+---
+
+## 🎬 CRUD de Streamers com Sistema de Opiniões
+
+📌 Aplicação para cadastro de streamers e registro de opiniões sobre filmes, séries e animes.
+
+⚙️ **Tecnologias**
+- Java
+- Spring Boot
+- HTML
+- CSS
+- JavaScript
+
+🔗 **Repositório**  
+https://github.com/JoseFelisbino/crud-streamers
+
+🌐 **Demo**  
+Em desenvolviment
+
 ## 📊 Estatísticas
 
 ### 📊 Estatísticas
@@ -59,14 +120,6 @@ Gosto de desenvolver aplicações web, aprender novas tecnologias e compartilhar
 <img src="https://streak-stats.demolab.com?user=JoseFelisbino&theme=tokyonight"/>
 
 </div>
-
----
-
-## 📌 Projetos em destaque
-
-🔹 Sistema de controle de despesas domésticas  
-🔹 Aplicativo de receitas com filtros de dieta  
-🔹 CRUD de streamers com sistema de opiniões  
 
 ---
 
