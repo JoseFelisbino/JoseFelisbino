@@ -36,13 +36,16 @@ Gosto de desenvolver aplicações web, aprender novas tecnologias e compartilhar
 
 ## 📊 Estatísticas
 
-<div align="center">
+### 📊 Estatísticas
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoseFelisbino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<p align="center">
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoseFelisbino&theme=tokyonight"/>
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseFelisbino&theme=tokyonight"/>
+</p>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFelisbino&layout=compact&theme=tokyonight"/>
-
-</div>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoseFelisbino&theme=tokyonight&utcOffset=-3"/>
+</p>
 
 ---
 
