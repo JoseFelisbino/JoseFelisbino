@@ -143,5 +143,4 @@ Me chamo José Luiz Vitorino Felisbino, tenho 22 anos e sou natural do Santa Cat
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseFelisbino&show_icons=true&theme=radical)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseFelisbino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
