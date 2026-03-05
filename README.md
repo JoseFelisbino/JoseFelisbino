@@ -71,3 +71,7 @@ Gosto de desenvolver aplicações web, aprender novas tecnologias e compartilhar
 ---
 
 ⭐ Se gostou de algum projeto, não esqueça de deixar uma estrela!
+
+## 🐍 Snake de commits
+
+![Snake animation](https://github.com/JoseFelisbino/JoseFelisbino/blob/output/github-contribution-grid-snake.svg)
