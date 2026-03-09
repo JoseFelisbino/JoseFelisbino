@@ -38,78 +38,31 @@ Gosto de desenvolver aplicações web, aprender novas tecnologias e compartilhar
 
 # 💼 Portfólio de Projetos
 
-## 💰 Sistema de Controle de Despesas Domésticas
+## 🎯 Jogo do Número Secreto
+Um pequeno jogo desenvolvido em **JavaScript, HTML e CSS**, onde o jogador deve descobrir um número secreto gerado aleatoriamente pelo sistema.
 
-📌 Aplicação web para gerenciamento de contas, despesas mensais e parcelas.
+### 🛠️ Tecnologias utilizadas
 
-⚙️ **Tecnologias**
-- Java
-- Spring Boot
-- MySQL
-- HTML
-- CSS
-- JavaScript
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Web Speech API**
 
-🔗 **Repositório**  
-https://github.com/JoseFelisbino/controle-despesas
 
-🌐 **Demo**  
-Em desenvolvimento
+### 🔗 **Repositório**  
+[https://github.com/JoseFelisbino/controle-despesas](https://github.com/JoseFelisbino/jogo-do-numero-secreto)
 
----
-
-## 🍳 Aplicativo de Receitas Inteligente
-
-📌 Sistema que sugere receitas com base nos ingredientes disponíveis no armário ou geladeira.
-
-⚙️ **Tecnologias**
-- Java
-- API REST
-- Banco de dados
-- HTML
-- CSS
-- JavaScript
-
-🔗 **Repositório**  
-https://github.com/JoseFelisbino/app-receitas
-
-🌐 **Demo**  
-Em desenvolvimento
+### 🌐 **Demo**  
+[Jogo do Número Secreto](https://jogo-numero-pink.vercel.app/)
 
 ---
-
-## 🎬 CRUD de Streamers com Sistema de Opiniões
-
-📌 Aplicação para cadastro de streamers e registro de opiniões sobre filmes, séries e animes.
-
-⚙️ **Tecnologias**
-- Java
-- Spring Boot
-- HTML
-- CSS
-- JavaScript
-
-🔗 **Repositório**  
-https://github.com/JoseFelisbino/crud-streamers
-
-🌐 **Demo**  
-Em desenvolviment
 
 ## 📊 Estatísticas
-
-### 📊 Estatísticas
 
 <p align="center">
 <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoseFelisbino&theme=tokyonight"/>
 <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseFelisbino&theme=tokyonight"/>
 </p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoseFelisbino&theme=tokyonight&utcOffset=-3"/>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseFelisbino&theme=tokyonight)
-</p>
-
 
 ---
 
@@ -124,7 +77,3 @@ Em desenvolviment
 ---
 
 ⭐ Se gostou de algum projeto, não esqueça de deixar uma estrela!
-
-## 🐍 Snake de commits
-
-![Snake animation](https://github.com/JoseFelisbino/JoseFelisbino/blob/output/github-contribution-grid-snake.svg)
