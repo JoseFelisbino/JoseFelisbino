@@ -68,7 +68,7 @@ Landing Page criada para ilustar informações sobre min e projetos.
 - **CSS3**
 
 ### 🔗 **Repositório**  
-https://github.com/JoseFelisbino/portfolio-jose
+[Link do respositório](https://github.com/JoseFelisbino/portfolio)
 
 ### 🌐 **Demo**  
 [Portfólio](https://portfolio-jose-silk.vercel.app/)
