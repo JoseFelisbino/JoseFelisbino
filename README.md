@@ -59,6 +59,20 @@ Um pequeno jogo desenvolvido em **JavaScript, HTML e CSS**, onde o jogador deve 
 
 ---
 
+# 💼 Portfólio
+
+Landing Page criada para ilustar informações sobre min e projetos.  
+### 🛠️ Tecnologias utilizadas
+
+- **HTML5**
+- **CSS3**
+
+### 🔗 **Repositório**  
+https://github.com/JoseFelisbino/portfolio-jose
+
+### 🌐 **Demo**  
+[Portfólio](https://portfolio-jose-silk.vercel.app/)
+
 ## 📊 Estatísticas
 
 <p align="center">
