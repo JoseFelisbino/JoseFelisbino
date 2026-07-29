@@ -91,5 +91,6 @@ Landing Page criada para ilustar informações sobre min e projetos.
 </div>
 
 ---
+![Snake animation](https://github.com/JoseFelisbino/JoseFelisbino/blob/output/github-contribution-grid-snake.svg)
 
 ⭐ Se gostou de algum projeto, não esqueça de deixar uma estrela!
