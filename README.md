@@ -40,23 +40,24 @@ Gosto de desenvolver aplicações web, aprender novas tecnologias e compartilhar
 
 # 💼 Portfólio de Projetos
 
-## 🎯 Jogo do Número Secreto
-Um pequeno jogo desenvolvido em **JavaScript, HTML e CSS**, onde o jogador deve descobrir um número secreto gerado aleatoriamente pelo sistema.
+## API Segurança Node.js
+API REST desenvolvida em **Node.js** com **Express**, **PostgreSQL** e **Sequelize**, com foco em autenticação, autorização e controle de acesso baseado em **Roles e Permissões (ACL)**.
 
 ### 🛠️ Tecnologias utilizadas
 
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- **Web Speech API**
+* **Node.js** — ambiente de execução JavaScript;
+* **Express.js** — criação da API REST;
+* **JavaScript** — linguagem utilizada no backend;
+* **JWT (JSON Web Token)** — autenticação dos usuários;
+* **bcryptjs** — criptografia/hash de senhas;
+* **Sequelize** — ORM para comunicação com o banco de dados;
+* **Sequelize CLI** — gerenciamento de migrations;
+* **UUID** — geração de identificadores;
+* **dotenv** — gerenciamento de variáveis de ambiente.
 
 
 ### 🔗 **Repositório**  
-[https://github.com/JoseFelisbino/controle-despesas](https://github.com/JoseFelisbino/jogo-do-numero-secreto)
-
-### 🌐 **Demo**  
-[Jogo do Número Secreto](https://jogo-numero-pink.vercel.app/)
-
+#### [Link do repositório](https://github.com/JoseFelisbino/seguranca-nodejs)
 ---
 
 # 💼 Portfólio
